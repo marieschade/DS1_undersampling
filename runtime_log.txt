@@ -1,0 +1,32 @@
+| Timestamp: 2021-06-21 08:29:08	| Data: Bank Data	| Algorithm: K-means++ and Centroids	| Runtime in s: 431.3100025653839
+| Timestamp: 2021-06-21 08:29:09	| Data: Bank Data	| Algorithm: logreg_unbalanced	| Runtime in s: 0.9691336154937744
+| Timestamp: 2021-06-21 08:29:09	| Data: Bank Data	| Algorithm: logreg_balanced	| Runtime in s: 0.21642112731933594
+
+| Timestamp: 2021-06-21 09:07:11	| Data: Bank Data	| Algorithm: K-means++ and Top1 centroids' nearest neighbor	| Runtime in s: 450.7852358818054
+| Timestamp: 2021-06-21 09:07:13	| Data: Bank Data	| Algorithm: logreg_unbalanced	| Runtime in s: 0.8783645629882812
+| Timestamp: 2021-06-21 09:07:13	| Data: Bank Data	| Algorithm: logreg_balanced	| Runtime in s: 0.24679040908813477
+
+| Timestamp: 2021-06-21 10:47:36	| Data: Adult Data	| Algorithm: K-means++ and Centroids	| Runtime in s: 1268.7293837070465
+| Timestamp: 2021-06-21 10:47:37	| Data: Adult Data	| Algorithm: logreg_unbalanced	| Runtime in s: 0.9938504695892334
+| Timestamp: 2021-06-21 10:47:37	| Data: Adult Data	| Algorithm: logreg_balanced	| Runtime in s: 0.4311861991882324
+
+| Timestamp: 2021-06-21 11:08:36	| Data: Adult Data	| Algorithm: K-means++ and Top1 centroids' nearest neighbor	| Runtime in s: 1106.6563956737518
+| Timestamp: 2021-06-21 11:08:37	| Data: Adult Data	| Algorithm: logreg_unbalanced	| Runtime in s: 1.0154497623443604
+| Timestamp: 2021-06-21 11:08:37	| Data: Adult Data	| Algorithm: logreg_balanced	| Runtime in s: 0.40392184257507324
+
+| Timestamp: 2021-06-21 11:30:38	| Data: Bank Data	| Algorithm: K-means++ and Random sampling	| Runtime in s: 1.306283950805664
+| Timestamp: 2021-06-21 11:30:39	| Data: Bank Data	| Algorithm: logreg_unbalanced	| Runtime in s: 0.8230721950531006
+| Timestamp: 2021-06-21 11:30:39	| Data: Bank Data	| Algorithm: logreg_balanced	| Runtime in s: 0.23636746406555176
+
+| Timestamp: 2021-06-21 11:30:46	| Data: Bank Data	| Algorithm: K-means++ and TopN centroids' nearest neighbors	| Runtime in s: 1.467644214630127
+| Timestamp: 2021-06-21 11:30:47	| Data: Bank Data	| Algorithm: logreg_unbalanced	| Runtime in s: 0.9000916481018066
+| Timestamp: 2021-06-21 11:30:48	| Data: Bank Data	| Algorithm: logreg_balanced	| Runtime in s: 0.19248604774475098
+
+| Timestamp: 2021-06-21 11:31:05	| Data: Adult Data	| Algorithm: K-means++ and Random sampling	| Runtime in s: 0.9913203716278076
+| Timestamp: 2021-06-21 11:31:06	| Data: Adult Data	| Algorithm: logreg_unbalanced	| Runtime in s: 0.7844810485839844
+| Timestamp: 2021-06-21 11:31:07	| Data: Adult Data	| Algorithm: logreg_balanced	| Runtime in s: 0.35414719581604004
+
+| Timestamp: 2021-06-21 11:31:17	| Data: Adult Data	| Algorithm: K-means++ and TopN centroids' nearest neighbors	| Runtime in s: 1.1344928741455078
+| Timestamp: 2021-06-21 11:31:18	| Data: Adult Data	| Algorithm: logreg_unbalanced	| Runtime in s: 0.7881231307983398
+| Timestamp: 2021-06-21 11:31:19	| Data: Adult Data	| Algorithm: logreg_balanced	| Runtime in s: 0.37276244163513184
+
